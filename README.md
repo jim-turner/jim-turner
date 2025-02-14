@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jim-turner
-- 👀 I’m interested in Front End Web Development and Design [including UI/UX]
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in WebGL/Three.js and Shader Art
+- 🌱 I’m currently learning WebGL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - jimturnerstudio@gmail.com
 
